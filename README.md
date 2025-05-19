@@ -50,13 +50,13 @@ The model detects various defect types such as:
 Detection results from the YOLOv9 model:
 
 - 🏗️ **Bridge Defect Detection:**  
-  ![Bridge Result](images/Bridge.jpeg)
+  ![Bridge Result](images/Bridge.jpg)
 
 - 🏢 **Infrastructure Damage Detection (1):**  
-  ![Infrastructure Result 1](images/Infra2.jpeg)
+  ![Infrastructure Result 1](images/Infra1.jpeg)
 
 - 🛣️ **Infrastructure Damage Detection (2):**  
-  ![Infrastructure Result 2](images/infra1.jpg)
+  ![Infrastructure Result 2](images/infra2.jpeg)
 
 
 ## 🌐 Future Work
